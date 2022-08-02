@@ -2,8 +2,6 @@
 import socket 
 import threading
 
-from PythonSockets.client import DISCONNECT_MSG, SERVER 
-
 """
 
 """
